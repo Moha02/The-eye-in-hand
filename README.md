@@ -29,8 +29,10 @@ To run the experiment, follow these steps:
 
 Clone the repository:
 
-git clone <repository_url>
-cd <repository_directory>
+
+
+git clone [<repository_url>](https://github.com/Moha02/The-eye-in-hand.git)
+cd The-eye-in-hand
 
 Install dependencies:
 
