@@ -4,17 +4,16 @@ The Eye in Hand: Bayesian Action Prediction Experiment
 Project Overview
 
 This repository contains the implementation of the first experiment detailed in the paper "The Eye in Hand". The experiment aims to predict the intended target of a hand movement using Bayesian methods, considering various cues such as gaze congruency, hand preshapes, and arm trajectory vectors.
+
+
 Repository Structure
 
-
-.
 ├── README.md                 # Project documentation
 ├── ambrosini15actionPrediction.pdf  # Reference paper
 ├── experiment_data.csv       # CSV file with experiment data
 ├── main.py                   # Script to run the experiment
 └── model.py                  # Bayesian Action Prediction model implementation
 
-Implementation Details
 
 The project is primarily implemented in Python, leveraging the numpy library for numerical operations and matplotlib for visualizations.
 Bayesian Action Prediction Model
